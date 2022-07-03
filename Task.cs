@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Kysect
 {
-    internal class Task : VaultOfTasks
+    internal class Task
     {
 
         private string deadline;
